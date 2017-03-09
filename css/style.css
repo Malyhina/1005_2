@@ -1,0 +1,10 @@
+.line{
+  border: 3px solid black;
+}
+.unit{
+    border: 3px solid black;
+}
+.table {
+width: 300px; /* Ширина таблицы */
+border: 1px solid black; /* Рамка вокруг таблицы */
+}
