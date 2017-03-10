@@ -1,10 +1,45 @@
-.line{
-  border: 3px solid black;
-}
-.unit{
-    border: 3px solid black;
-}
 .table {
-width: 300px; /* Ширина таблицы */
-border: 1px solid black; /* Рамка вокруг таблицы */
+  border-collapse: collapse;
+}
+.line{
+  border: 10px solid black;
+}
+.unit1{
+    border: 8px solid black; width: 53px;
+}
+.unit2{
+    border: 8px solid black; width: 68px;
+}
+.unit3{
+    border: 8px solid black; width: 75px;
+}
+.unit4{
+    border: 8px solid black; width: 138px;
+}
+.unit5{
+    border: 8px solid black; width: 84px;
+}
+.unit6{
+    border: 8px solid black; width: 84px;
+}
+.line1{
+  height: 52px;
+}
+.line2{
+  height: 140px;
+}
+.line3{
+  height: 140px;
+}
+.line4{
+  height: 72px;
+}
+.line5{
+  height: 68px;
+}
+.line6{
+  height: 36px;
+}
+.line7{
+  height: 36px;
 }
